@@ -1,6 +1,6 @@
 /*
   Script: Keylogger for Web
-  Developer : @rmagno
+  Developer: https://www.linkedin.com/in/robson-magno-21478b11b/ 
   Date: seg jan 13 12:21:56 -03 2020
 */
 
